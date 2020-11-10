@@ -39,7 +39,7 @@
 #### EC2 | RDS | ES | Lambda | Elasticsearch Service | Elasticache | S3
 ### - Git
 #### Git | GitHub | GitLab
-### - Docker asdasdsa
+### - Docker
 
 <div align=center>
   

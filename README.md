@@ -8,7 +8,6 @@
 > Back-end Engineer who believes the value of consideration in programming.
 
 ## 🎒 Education
----
 
 ### Hankuk University of Foreign Studies (2016. 03 - )
 #### - Swedish
@@ -19,7 +18,6 @@
 
 
 ## 🙋🏻‍♂️ Interests
----
 
 ### - Parallel Programming & Object Oriented Programming
 #### 👉 [[Python] Thread](https://velog.io/@dev_taehyun/TIL%EC%8A%A4%EB%A0%88%EB%93%9C-%EC%95%84%EC%8B%9C%EB%82%98%EC%9A%94)
@@ -30,7 +28,7 @@
 #### 👉 [[AWS Lambda] Layer (with Docker)](https://velog.io/@dev_taehyun/AWS-Lambda-Layer-feat.-Docker)
 
 ## 👨🏻‍💻 Skills
----
+
 ### - Language
 #### Python
 ### - Web Framework
@@ -39,7 +37,8 @@
 ##### MySQL | Redis | Elasticsearch
 ### - AWS
 #### EC2 | RDS | ES | Lambda | Elasticsearch Service | Elasticache | S3
-### - Gi
+### - Git
+#### Git | GitHub | GitLab
 ### - Docker
 
 <div align=center>

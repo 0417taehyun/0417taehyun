@@ -1,4 +1,4 @@
-<script>=
+<script>
     /**
     * termynal.js
     * A lightweight, modern and extensible animated terminal window, using

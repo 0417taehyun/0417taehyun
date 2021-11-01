@@ -4,6 +4,6 @@
     display: block;
 }
   
-.termy [data-termynal] {
+.markdown-body entry-content container-lg f5 [data-termynal] {
     white-space: pre-wrap;
 }

@@ -1,9 +1,0 @@
-.termynal-comment {
-    color: #4a968f;
-    font-style: italic;
-    display: block;
-}
-  
-.highlight highlight-source-shell position-relative overflow-auto [data-termynal] {
-    white-space: pre-wrap;
-}

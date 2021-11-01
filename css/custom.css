@@ -4,6 +4,6 @@
     display: block;
 }
   
-.markdown-body entry-content container-lg f5 [data-termynal] {
+.highlight highlight-source-shell position-relative overflow-auto [data-termynal] {
     white-space: pre-wrap;
 }

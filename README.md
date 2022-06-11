@@ -8,6 +8,8 @@
 
 <img src="./Images/01_Accomplishment/01_LeetCode/01_SQL/02_SQLII.gif" alt="[ LeetCode ] SQL II Study Plan Accomplishment Badge" width=100>
 
+<img src="./Images/01_Accomplishment/01_LeetCode/01_SQL/03_SQLIII.gif" alt="[ LeetCode ] SQL III Study Plan Accomplishment Badge" width=100>
+
 </div>
 
 ## Awards

@@ -20,6 +20,8 @@
 
 <img src="./Images/02_Awards/01_HUFS/01_2022_Smart_Campus_Idea_Festival.jpeg" alt="[ Hankuk University of Foreigh Studies ] 2022 Smart Campus Idea Festival" width=350>
 
+<img src="./Images/02_Awards/01_HUFS/02_2022_HUFSummer_Hackathon.jpg" alt="[ Hankuk University of Foreigh Studies ] 2022 HUFSummer Hackathon" width=350>
+
 </div>
 
 ### Google Developer Groups Campus Korea (GDG Campus Korea)

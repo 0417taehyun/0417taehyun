@@ -24,6 +24,14 @@
 
 </div>
 
+### Korea University
+
+<div>
+
+<img src="./Images/02_Awards/03_KU/01_2022_KU_Summer_Hackathon.jpeg" alt="[ Korea University ] 2022 KU Summer Hackathon">
+
+</div>
+
 ### Google Developer Groups Campus Korea (GDG Campus Korea)
 
 <div>
@@ -31,3 +39,5 @@
 <img src="./Images/02_Awards/02_GDG/01_2022_Summer_Hackathon.jpg" alt="[ Google Developer Groups Campus Korea ] 2022 Summer Hackathon" width=500>
 
 </div>
+
+01_2022_KU_Summer_Hackathon.jpeg

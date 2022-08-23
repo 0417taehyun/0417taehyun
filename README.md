@@ -53,7 +53,7 @@
 
 #### List of Awards
 
-1. 2022 Summer Hackathon 1st Place
+1. 2022 Summer Hackathon 3rd Place
 
 <div>
 

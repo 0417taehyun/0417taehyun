@@ -7,6 +7,9 @@
   - [Hankuk University of Foregin Studies (HUFS)](#hankuk-university-of-foreign-studies-hufs)
   - [Korea University](#korea-university)
   - [Google Developer Groups Campus Korea (GDG Campus Korea)](#google-developer-groups-campus-korea-gdg-campus-korea)
+- [Certficates](#certificates)
+  - [2022](#2022)
+    - [SQLD](#sqld)
 
 ## Accomplishments
 
@@ -77,9 +80,7 @@
 
 ### 2022
 
-#### List of Certificates
-
-1. SQLD
+#### SQLD
 
 <div>
   <img src="./Images/03_Certificates/2022/01_SQLD.png" alt="SQLD" width=500>

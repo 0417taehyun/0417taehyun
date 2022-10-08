@@ -17,15 +17,16 @@
 
 #### List of Accomplishments
 
-1. SQL I Study Plan
-2. SQL II Study Plan
-3. SQL III Study Plan
+1. **SQL I** Study Plan
+2. **SQL II** Study Plan
+3. **SQL III** Study Plan
+4. **Binary Search I** Study Plan
 
 <div>
-  <img src="./Images/01_Accomplishment/01_LeetCode/01_SQL/01_SQLI.gif" alt="[ LeetCode ] SQL I Study Plan Accomplishment Badge" width=100>
-  <img src="./Images/01_Accomplishment/01_LeetCode/01_SQL/02_SQLII.gif" alt="[ LeetCode ] SQL II Study Plan Accomplishment Badge" width=100>
-  <img src="./Images/01_Accomplishment/01_LeetCode/01_SQL/03_SQLIII.gif" alt="[ LeetCode ] SQL III Study Plan Accomplishment Badge" width=100>
-
+  <img src="./Images/01_Accomplishment/01_LeetCode/01_SQL/01_SQL_I.gif" alt="[ LeetCode ] SQL I Study Plan Accomplishment Badge" width=100>
+  <img src="./Images/01_Accomplishment/01_LeetCode/01_SQL/02_SQL_II.gif" alt="[ LeetCode ] SQL II Study Plan Accomplishment Badge" width=100>
+  <img src="./Images/01_Accomplishment/01_LeetCode/01_SQL/03_SQL_III.gif" alt="[ LeetCode ] SQL III Study Plan Accomplishment Badge" width=100>
+  <img src="./Images/01_Accomplishment/01_LeetCode/02_Binary_Search/01_Binary_SearchI.gif" alt="[ LeetCode ] Bianry Search I Study Plan Accomplishment Badge" width=100>
 </div>
 
 ### Google

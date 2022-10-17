@@ -1,5 +1,7 @@
 ## Table of Contents
 
+- [Article](#article)
+  - [Recently](#recently)
 - [Accomplishment](#accomplishment)
   - [LeetCode](#leetcode)
   - [Google](#google)
@@ -10,6 +12,14 @@
 - [Certficates](#certificates)
   - [2022](#2022)
     - [SQLD](#sqld)
+
+## Article
+
+> All articles were written in Korean. Love to share something that I learn.
+
+### Recently
+
+- **2022. 10. 17 :** [게으름과 부지런함(Lazy vs Eager)](https://github.com/0417taehyun/TIL/blob/main/2022/10/17/01/README.MD)
 
 ## Accomplishments
 

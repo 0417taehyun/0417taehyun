@@ -19,8 +19,7 @@
 
 ### Recently
 
-- **2022. 11. 01 :** [우아한 테크 코스 5기 프리코스 1주차를 마치며](https://github.com/0417taehyun/TIL/blob/main/2022/11/01/01/README.md)
-- **2022. 10. 17 :** [게으름과 부지런함(Lazy vs Eager)](https://github.com/0417taehyun/TIL/blob/main/2022/10/17/01/README.MD)
+- **2022. 10. 17 :** [게으름과 부지런함(Lazy vs Eager)](https://weekwith.me/2022/10/17/01/)
 
 ## Accomplishments
 

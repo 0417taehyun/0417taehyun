@@ -1,15 +1,21 @@
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Article](#article)
   - [Recently](#recently)
-- [Accomplishment](#accomplishment)
+- [Accomplishments](#accomplishments)
   - [LeetCode](#leetcode)
+    - [List of Accomplishments](#list-of-accomplishments)
   - [Google](#google)
+    - [List of Accomplishments](#list-of-accomplishments-1)
 - [Awards](#awards)
-  - [Hankuk University of Foregin Studies (HUFS)](#hankuk-university-of-foreign-studies-hufs)
+  - [Hankuk University of Foreign Studies (HUFS)](#hankuk-university-of-foreign-studies-hufs)
+    - [List of Awards](#list-of-awards)
   - [Korea University](#korea-university)
+    - [List of Awards](#list-of-awards-1)
   - [Google Developer Groups Campus Korea (GDG Campus Korea)](#google-developer-groups-campus-korea-gdg-campus-korea)
-- [Certficates](#certificates)
+    - [List of Awards](#list-of-awards-2)
+- [Certificates](#certificates)
   - [2022](#2022)
     - [SQLD](#sqld)
 
@@ -27,12 +33,14 @@
 
 #### List of Accomplishments
 
-1. **SQL I** Study Plan
-2. **SQL II** Study Plan
-3. **SQL III** Study Plan
-4. **Binary Search I** Study Plan
+1. **2022 Annual 100 Days**
+2. **SQL I** Study Plan
+3. **SQL II** Study Plan
+4. **SQL III** Study Plan
+5. **Binary Search I** Study Plan
 
 <div>
+  <img src="./Images/01_Accomplishment/01_LeetCode/00_Annual/2022.gif" alt="[ LeetCode ] 2022 Annual 100 Days Accomplishment Badge" width=100>
   <img src="./Images/01_Accomplishment/01_LeetCode/01_SQL/01_SQL_I.gif" alt="[ LeetCode ] SQL I Study Plan Accomplishment Badge" width=100>
   <img src="./Images/01_Accomplishment/01_LeetCode/01_SQL/02_SQL_II.gif" alt="[ LeetCode ] SQL II Study Plan Accomplishment Badge" width=100>
   <img src="./Images/01_Accomplishment/01_LeetCode/01_SQL/03_SQL_III.gif" alt="[ LeetCode ] SQL III Study Plan Accomplishment Badge" width=100>

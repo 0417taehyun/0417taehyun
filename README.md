@@ -1,123 +1,31 @@
+> Love to share something that I've learned.
+
 ## Table of Contents
 
-- [Work Experience](#work-experience)
-  - [Karrot, Daangn Market (당근마켓)](#karrot-daangn-market-당근마켓)
-- [Article](#article)
-  - [2023](#2023)
-  - [2022](#2022)
-- [Accomplishments](#accomplishments)
-  - [LeetCode](#leetcode)
-    - [List of Accomplishments](#list-of-accomplishments)
-  - [Google](#google)
-    - [List of Accomplishments](#list-of-accomplishments-1)
-- [Awards](#awards)
-  - [Hankuk University of Foreign Studies (HUFS)](#hankuk-university-of-foreign-studies-hufs)
-    - [List of Awards](#list-of-awards)
-  - [Korea University](#korea-university)
-    - [List of Awards](#list-of-awards-1)
-  - [Google Developer Groups Campus Korea (GDG Campus Korea)](#google-developer-groups-campus-korea-gdg-campus-korea)
-    - [List of Awards](#list-of-awards-2)
-- [Certificates](#certificates)
-  - [2022](#2022)
-    - [SQLD](#sqld)
-
-## Work Experience
-
-### Karrot, Daangn Market (당근마켓)
-
-#### Date
-
-- **2023. 01. 02** - **Current**
-
-#### Role
-
-- **Internal Team Server Engineer**
-
-## Article
-
-> All articles were written in Korean. Love to share something that I learn.
-
-### 2023
-
-- **04. 13 :** [앗! 모르고 깃헙(GitHub)에 올렸어요!](https://medium.com/daangn/%EC%95%97-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EA%B9%83%ED%97%99-github-%EC%97%90-%EC%98%AC%EB%A0%B8%EC%96%B4%EC%9A%94-50d48b343f0f?source=collection_home---4------0-----------------------)
-- **02. 21 :** [파이썬을 처음 사용하는 동료와 효율적으로 일하는 방법](https://medium.com/daangn/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%8F%99%EB%A3%8C%EC%99%80-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-bb52c3a433fa)
+- [Korean](#korean)
 
 
-## Accomplishments
+## Korean
 
-### LeetCode
+<details>
 
-#### List of Accomplishments
+<summary> 2023 </summary>
 
-1. **2022 Annual 100 Days**
-2. **SQL I** Study Plan
-3. **SQL II** Study Plan
-4. **SQL III** Study Plan
-5. **Binary Search I** Study Plan
+<table>
+  <tr>
+    <th> Title </th>
+    <th> Date </th>
+  </tr>
+  <tr>
+    <td> <a link="https://medium.com/daangn/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%8F%99%EB%A3%8C%EC%99%80-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-bb52c3a433fa"> 파이썬을 처음 사용하는 동료와 효율적으로 일하는 방법
+ </a> </td>
+    <td> 2023. 02. 21 </td>
+  </tr>  
+  <tr>
+    <td> <a link="https://medium.com/daangn/%EC%95%97-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EA%B9%83%ED%97%99-github-%EC%97%90-%EC%98%AC%EB%A0%B8%EC%96%B4%EC%9A%94-50d48b343f0f"> 앗! 모르고 깃헙(GitHub)에 올렸어요! </a> </td>
+    <td> 2023. 04. 23 </td>
+  </tr>
 
-<div>
-  <img src="./Images/01_Accomplishment/01_LeetCode/00_Annual/2022.gif" alt="[ LeetCode ] 2022 Annual 100 Days Accomplishment Badge" width=100>
-  <img src="./Images/01_Accomplishment/01_LeetCode/01_SQL/01_SQL_I.gif" alt="[ LeetCode ] SQL I Study Plan Accomplishment Badge" width=100>
-  <img src="./Images/01_Accomplishment/01_LeetCode/01_SQL/02_SQL_II.gif" alt="[ LeetCode ] SQL II Study Plan Accomplishment Badge" width=100>
-  <img src="./Images/01_Accomplishment/01_LeetCode/01_SQL/03_SQL_III.gif" alt="[ LeetCode ] SQL III Study Plan Accomplishment Badge" width=100>
-  <img src="./Images/01_Accomplishment/01_LeetCode/02_Binary_Search/01_Binary_SearchI.gif" alt="[ LeetCode ] Bianry Search I Study Plan Accomplishment Badge" width=100>
-</div>
+</table>
 
-### Google
-
-#### List of Accomplishments
-
-1. Google Developer Student Clubs Core Member 2022 - 2023
-
-<div>
-  <img src="./Images/01_Accomplishment/02_Google/01_GDSC_Core_Member.svg" alt="[ Google ] Google Developer Student Clubs Core Member 2022 - 2023" width=200>
-
-</div>
-
-## Awards
-
-### Hankuk University of Foreign Studies (HUFS)
-
-#### List of Awards
-
-1. 2022 Smart Campus Idea Festival 3rd Place
-2. 2022 HUFSummer Hackathon 1st Place
-
-<div>
-  <img src="./Images/02_Awards/01_HUFS/01_2022_Smart_Campus_Idea_Festival.jpeg" alt="[ Hankuk University of Foreigh Studies ] 2022 Smart Campus Idea Festival" width=350 height=500>
-  <img src="./Images/02_Awards/01_HUFS/02_2022_HUFSummer_Hackathon.jpeg" alt="[ Hankuk University of Foreigh Studies ] 2022 HUFSummer Hackathon" width=350 height=500>
-
-</div>
-
-### Korea University
-
-#### List of Awards
-
-1. 2022 KU Summer Hackathon 1st Place
-
-<div>
-  <img src="./Images/02_Awards/03_KU/01_2022_KU_Summer_Hackathon.jpeg" alt="[ Korea University ] 2022 KU Summer Hackathon">
-
-</div>
-
-### Google Developer Groups Campus Korea (GDG Campus Korea)
-
-#### List of Awards
-
-1. 2022 Summer Hackathon 3rd Place
-
-<div>
-  <img src="./Images/02_Awards/02_GDG/01_2022_Summer_Hackathon.jpg" alt="[ Google Developer Groups Campus Korea ] 2022 Summer Hackathon" width=500>
-
-</div>
-
-## Certificates
-
-### 2022
-
-#### SQLD
-
-<div>
-  <img src="./Images/03_Certificates/2022/01_SQLD.png" alt="SQLD" width=500>
-
-</div>
+</details>

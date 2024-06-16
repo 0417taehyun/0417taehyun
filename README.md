@@ -52,6 +52,8 @@
 
 </table>
 
+</details>
+
 
 <details>
 

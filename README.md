@@ -6,7 +6,7 @@ I am a product-minded software engineer with 3+ years of experience building lar
 
 ## Technical Skills
 
-- **Languages**: Go, Python, Java, Kotlin
-- **Backend & Data**: FastAPI, Spring, Kafka, MySQL, PostgreSQL, TimescaleDB, FFmpeg
+- **Languages**: Go, Python, JavaScript, TypeScript, Java, Kotlin
+- **Backend & Data**: FastAPI, Node.js, Spring, Kafka, MySQL, PostgreSQL, TimescaleDB, FFmpeg
 - **Cloud & Infrastructure**: AWS, GCP, Docker, Kubernetes, GitHub Actions
 - **Observability**: Grafana, Prometheus, Loki, Sentry, Datadog

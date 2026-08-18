@@ -10,4 +10,4 @@ I am a product-minded software engineer with 3+ years of experience building lar
 - **Backend & Data**: FastAPI, Node.js, Spring, Kafka, MySQL, PostgreSQL, TimescaleDB, FFmpeg
 - **Cloud & Infrastructure**: AWS, GCP, Docker, Kubernetes, GitHub Actions
 - **Observability**: Grafana, Prometheus, Loki, Sentry, Datadog
-- **AI**: LLM APIs, RAG, FAISS
+- **Applied AI**: Large Language Model (LLM) APIs, Retrieval-Augmented Generation (RAG), FAISS
